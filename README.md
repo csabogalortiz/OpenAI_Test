@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the "Exploring OpenAI" project! This project is an exploration of OpenAI's powerful language models, with a focus on understanding and implementing various applications using OpenAI's technologies.
+Welcome to my "Exploring OpenAI" project! This project is an exploration of OpenAI's powerful language models, with a focus on understanding and implementing various applications using OpenAI's technologies.
 
 ## Project Description
 
