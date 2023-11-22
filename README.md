@@ -14,4 +14,6 @@ The main goals of this project are:
 - Explore the practical applications of OpenAI's models in real-world scenarios.
 - Develop and showcase projects that leverage OpenAI's capabilities
 
-### Thanks Keep posting
+### Local Developement branch
+
+1. a step
